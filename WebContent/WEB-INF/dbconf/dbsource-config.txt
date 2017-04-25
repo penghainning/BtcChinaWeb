@@ -1,0 +1,10 @@
+datasource-driver=com.mysql.jdbc.Driver
+datasource-url=jdbc\:mysql\://119.29.178.21\:3306/jsq?useUnicode\=true&characterEncoding\=utf-8
+datasource-user=root
+datasource-password=Phn2846573
+#datasource-password=szu201
+ 
+ 
+devmode=true 
+
+port=9988

@@ -1,0 +1,9 @@
+datasource-driver=com.mysql.jdbc.Driver
+datasource-url=jdbc\:mysql\://119.29.178.21\:3306/chinabtc?useUnicode\=true&characterEncoding\=utf-8
+datasource-user=root
+datasource-password=Phn2846573
+ 
+ 
+devmode=true 
+
+port=9988
